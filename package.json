@@ -1,5 +1,5 @@
 {
-  "name": "semantic-release-configuration",
+  "name": "semantic-release-configuration-test-dvh",
   "version": "1.0.0",
   "description": "configuration using semantic-release for automation deploys",
   "main": "index.js",
