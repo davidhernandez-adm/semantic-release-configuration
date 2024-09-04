@@ -3,8 +3,9 @@
       "main", 
       {"name": "next", "channel": "next", "prerelease": true},
       {"name": "beta", "channel": "beta", "prerelease": true},
-      {"name": "release/DEV-*", "prerelease": true}
+      {"name": "release/DEV-*", "prerelease": "beta"}
     ],
+    
     "plugins": [
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
