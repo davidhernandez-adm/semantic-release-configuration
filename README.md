@@ -1,2 +1,2 @@
 # semantic-release-configuration
-test1
+test2
