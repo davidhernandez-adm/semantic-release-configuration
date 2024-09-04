@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "configuration using semantic-release for automation deploys",
   "main": "index.js",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release"
