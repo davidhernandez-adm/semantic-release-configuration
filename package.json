@@ -9,6 +9,9 @@
   },
   "author": "david hernandez",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/davidhernandez-adm/semantic-release-configuration.git"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^13.0.0",
