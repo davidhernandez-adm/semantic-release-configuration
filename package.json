@@ -1,6 +1,6 @@
 {
   "name": "semantic-release-configuration",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "description": "configuration using semantic-release for automation deploys",
   "main": "index.js",
   "scripts": {
