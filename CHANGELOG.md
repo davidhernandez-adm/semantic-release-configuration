@@ -1,3 +1,10 @@
+# [1.0.0-beta.4](https://github.com/davidhernandez-adm/semantic-release-configuration/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2024-09-05)
+
+
+### Bug Fixes
+
+* remove option default ([20ecc5d](https://github.com/davidhernandez-adm/semantic-release-configuration/commit/20ecc5dcc1d9b67b456710a41c0de4d876b5a199))
+
 # [1.0.0-beta.3](https://github.com/davidhernandez-adm/semantic-release-configuration/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2024-09-05)
 
 
