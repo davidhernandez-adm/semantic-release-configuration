@@ -1,3 +1,10 @@
+# [1.0.0-beta.2](https://github.com/davidhernandez-adm/semantic-release-configuration/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2024-09-05)
+
+
+### Features
+
+* new pay for users ([8eb8840](https://github.com/davidhernandez-adm/semantic-release-configuration/commit/8eb8840da98d7717d00dac7b90fdb4e782831b70))
+
 # 1.0.0-beta.1 (2024-09-05)
 
 
