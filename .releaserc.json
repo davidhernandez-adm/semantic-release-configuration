@@ -17,7 +17,6 @@
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }]
     ],
-    
     "tagFormat": "v${version}"
   }
   
